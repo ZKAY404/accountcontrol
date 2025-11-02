@@ -1,6 +1,6 @@
 --// Local listener auto executor
-local mainURL = "http://127.0.0.1:5500/main.lua"
-local listenURL = "http://127.0.0.1:5500/listen.lua"
+local mainURL = "http://192.168.1.49:5500/main.lua"
+local listenURL = "http://192.168.1.49:5500/listen.lua"
 local hasRun = false
 
 while true do
